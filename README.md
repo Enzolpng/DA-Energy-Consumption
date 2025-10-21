@@ -1,45 +1,60 @@
 # 🌍 Global Energy Consumption Data Analysis
 
-## 📖 Giới thiệu  
-Dự án **Data Analysis cho Environmental** tập trung vào việc **phân tích dữ liệu sản xuất và tiêu thụ năng lượng điện toàn cầu** qua các năm.  
-Báo cáo được xây dựng với mục tiêu cung cấp **cái nhìn định lượng, trực quan và chiến lược** về **xu hướng năng lượng**, từ đó hỗ trợ **ra quyết định trong quản lý năng lượng và hoạch định chính sách phát triển bền vững**.
+## 📖 Introduction  
+The **Data Analysis for Environmental** project focuses on **analyzing global electricity production and consumption data** over the years.  
+This report aims to provide **quantitative, visual, and strategic insights** into **global energy trends**, supporting **decision-making in energy management and sustainable policy planning**.
 
 ---
 
-## 🎯 Mục tiêu nghiên cứu  
-1. **Tổng hợp và so sánh sản lượng điện** theo từng loại nguồn năng lượng:  
-   - Nhiên liệu hóa thạch (than đá, dầu mỏ, khí đốt tự nhiên).  
-   - Năng lượng tái tạo (thủy điện, gió, mặt trời, sinh khối,...).  
+## 🎯 Research Objectives  
+1. **Aggregate and compare electricity production** by energy source:  
+   - Fossil fuels (coal, oil, natural gas).  
+   - Renewable energy (hydropower, wind, solar, biomass, etc.).  
 
-2. **Phân tích chi phí sản xuất năng lượng** theo từng loại nguồn, bao gồm chi phí đầu tư, vận hành và phát thải carbon liên quan.  
+2. **Analyze energy production costs** for each source, including investment, operation, and associated carbon emissions.  
 
-3. **Phân bổ tiêu thụ năng lượng** theo từng **ngành kinh tế** (dân dụng, công nghiệp, giao thông, thương mại), và **đánh giá sự thay đổi theo thời gian**.  
+3. **Distribute and evaluate energy consumption** across **economic sectors** (residential, industrial, transportation, commercial) and **analyze temporal changes**.  
 
-4. **Nhận diện các nhóm tiêu thụ chính** và **đề xuất giải pháp tối ưu hóa hiệu suất năng lượng** nhằm giảm lãng phí và tăng tính bền vững.  
-
----
-
-## 💡 Ứng dụng và Giá trị  
-- **Đối với doanh nghiệp:**  
-  Hỗ trợ phân tích chi phí, nhận diện xu hướng năng lượng sạch và đưa ra quyết định đầu tư tối ưu.  
-
-- **Đối với chính phủ và tổ chức năng lượng:**  
-  Cung cấp cơ sở dữ liệu và mô hình phân tích giúp **định hình chính sách năng lượng quốc gia**, **quản lý phát thải**, và **xây dựng lộ trình chuyển đổi sang năng lượng xanh**.  
-
-- **Đối với nghiên cứu học thuật:**  
-  Là nguồn dữ liệu và công cụ trực quan hữu ích cho các nghiên cứu liên quan đến **kinh tế năng lượng, môi trường học, và chính sách công**.  
+4. **Identify key consumer groups** and **propose optimization strategies** to improve energy efficiency and promote sustainable usage.  
 
 ---
 
-## 🧠 Công nghệ sử dụng  
-- **Ngôn ngữ:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Plotly)  
-- **Visualization:** Power BI / Tableau / Plotly Dash  
-- **Machine Learning:** Clustering, Regression, Time Series Forecasting  
-- **Data Source:** Global Energy Statistical Review, IEA, World Bank, Our World in Data  
+## 💡 Applications & Value  
+- **For businesses:**  
+  Supports cost analysis, identifies renewable energy trends, and aids in making optimal investment decisions.  
+
+- **For governments and energy organizations:**  
+  Provides data-driven models to **shape national energy policies**, **manage emissions**, and **develop sustainable transition pathways**.  
+
+- **For academic research:**  
+  Serves as a comprehensive dataset and visualization tool for studies in **energy economics, environmental science, and public policy**.  
 
 ---
 
-## 📊 Kết quả chính (ví dụ minh họa)
-- Tỷ trọng năng lượng tái tạo toàn cầu tăng **35% trong thập kỷ 2010–2020**.  
-- Chi phí sản xuất điện từ năng lượng mặt trời giảm **~80%** trong cùng giai đoạn.  
-- Ngành **công nghiệp** chiếm **gần 40% tổng tiêu thụ điện toàn cầu**, nhưng tốc độ tăng chậm hơn so với **giao thông điện hóa**.  
+## 🧠 Technologies Used  
+- **Programming Language:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Plotly)  
+- **Visualization Tools:** Power BI / Tableau / Plotly Dash  
+- **Machine Learning Techniques:** Clustering, Regression, Time Series Forecasting  
+- **Data Sources:** Global Energy Statistical Review, IEA, World Bank, Our World in Data  
+
+---
+
+## 📊 Key Findings (Illustrative Example)
+- The global share of renewable energy increased by **35% between 2010–2020**.  
+- The cost of solar power generation decreased by **approximately 80%** during the same period.  
+- The **industrial sector** accounts for **around 40% of global electricity consumption**, though its growth rate is slower compared to **electrified transportation**.  
+
+---
+
+## 👥 Author & Contributions  
+**Author:** Aki — *Software Engineering & Educational Consultant*  
+
+Contributions and improvement suggestions are welcome!  
+Please open a **Pull Request** or create an **Issue** if you’d like to contribute to this project.
+
+---
+
+## 📄 License  
+This project is released under the **MIT License** — feel free to use, modify, and distribute it with proper attribution.
+
+---
